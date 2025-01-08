@@ -1,6 +1,6 @@
-# Hi there, I'm Tsiresy Mila 👋
+# Hi there, I'm Tsiresy Milà 👋
 
-### 🚀 Software Engineer | ASGI Framework Enthusiast | Innovator
+### 🚀 Software Engineer | Creator of Nestipy | Framework Enthusiast | Innovator
 
 Welcome to my GitHub profile! I specialize in building scalable web applications and modern frameworks, focusing on performance and developer experience. 
 
@@ -57,7 +57,7 @@ A CLI tool for quickly scaffolding and managing Nestipy projects.
 Currently exploring:
 - 🧠 **AI Integration** - Using **LLMs** for automation and optimization.
 - 📡 **Edge Computing** - Building real-time systems and microservices.
-- 🌐 **WebSockets** - Real-time communication for scalable applications.
+- 🌐 **WebRtc** - Real-time communication for scalable applications.
 
 ---
 
