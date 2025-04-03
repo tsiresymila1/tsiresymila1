@@ -62,7 +62,7 @@ Currently exploring:
 ---
 ## Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/tsiresymila1/count.svg" />
 
 ---
 
