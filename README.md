@@ -60,6 +60,11 @@ Currently exploring:
 - 🌐 **WebRtc** - Real-time communication for scalable applications.
 
 ---
+## Visitor count
+
+<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+
+---
 
 Thank you for visiting my profile! Feel free to connect, collaborate, or explore my repositories. Let's build something amazing together! 🚀
 
